@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "english_search",
+  "version": "${version}",
+  "name": "english_search",
+  "description": "",
+  "authors": [
+    "Earthcomputer"
+  ],
+  "contact": {
+    "repo": "https://github.com/Earthcomputer/english_search"
+  },
+  "license": "MIT",
+  "icon": "assets/english_search/icon.png",
+  "environment": "client",
+  "entrypoints": {
+  },
+  "mixins": [
+    "english_search.mixins.json"
+  ],
+  "accessWidener": "english_search.accesswidener",
+  "depends": {
+  }
+}
